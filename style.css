@@ -1,0 +1,2417 @@
+.iphone {
+  position: relative;
+  width: 390px;
+  height: 7806px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.iphone .status-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #00000014;
+}
+
+.iphone .time-light {
+  margin-top: 9.5px;
+  width: 56.16px;
+  height: 21.84px;
+  margin-left: 21.8px;
+}
+
+.iphone .status-icons {
+  display: inline-flex;
+  margin-top: 13.6px;
+  width: 71.76px;
+  height: 14.56px;
+  position: relative;
+  margin-right: 20.6px;
+  align-items: center;
+  gap: 4.16px;
+}
+
+.iphone .network-signal-light {
+  position: relative;
+  width: 20.8px;
+  height: 14.56px;
+}
+
+.iphone .path {
+  position: absolute;
+  width: 15%;
+  height: 57.14%;
+  top: 28.57%;
+  left: 55%;
+}
+
+.iphone .img {
+  position: absolute;
+  width: 15%;
+  height: 42.86%;
+  top: 42.86%;
+  left: 32.5%;
+}
+
+.iphone .path-2 {
+  position: absolute;
+  width: 15%;
+  height: 32.14%;
+  top: 53.57%;
+  left: 10%;
+}
+
+.iphone .empty-bar {
+  position: absolute;
+  width: 15%;
+  height: 71.43%;
+  top: 14.29%;
+  left: 77.5%;
+}
+
+.iphone .wifi-signal-light {
+  position: relative;
+  width: 16.64px;
+  height: 14.56px;
+}
+
+.iphone .path-3 {
+  position: absolute;
+  width: 27.32%;
+  height: 21.86%;
+  top: 63.85%;
+  left: 37.11%;
+}
+
+.iphone .path-4 {
+  position: absolute;
+  width: 58.25%;
+  height: 23.67%;
+  top: 39.07%;
+  left: 21.66%;
+}
+
+.iphone .path-5 {
+  position: absolute;
+  width: 89.06%;
+  height: 30.88%;
+  top: 14.29%;
+  left: 6.25%;
+}
+
+.iphone .battery-light {
+  position: relative;
+  width: 26px;
+  height: 14.56px;
+}
+
+.iphone .image {
+  position: absolute;
+  top: 1px;
+  left: 8px;
+  width: 8px;
+  height: 12px;
+}
+
+.iphone .subtract {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 24px;
+  height: 12px;
+}
+
+.iphone .rectangle {
+  position: absolute;
+  top: 5px;
+  left: 25px;
+  width: 1px;
+  height: 4px;
+}
+
+.iphone .battery {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 9px;
+  height: 8px;
+}
+
+.iphone .frame {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 390px;
+  height: 80px;
+  background-color: #fffaf5;
+}
+
+.iphone .clove-logo {
+  position: absolute;
+  top: calc(50% - 21px);
+  left: calc(50% - 179px);
+  width: 101px;
+  height: 41px;
+}
+
+.iphone .div {
+  display: inline-flex;
+  height: 38px;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% + 25px);
+  background-color: #ffffff;
+  border-radius: 70px;
+  border: 1px solid;
+  border-color: #462512;
+}
+
+.iphone .get-a-call-back {
+  position: relative;
+  width: 12.47px;
+  height: 21.47px;
+}
+
+.iphone .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-2 {
+  display: flex;
+  width: 390px;
+  align-items: center;
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 195px);
+  overflow: hidden;
+}
+
+.iphone .frame-3 {
+  position: relative;
+  width: 390px;
+  height: 394px;
+  background-color: #ffffff;
+}
+
+.iphone .empty-stomatology {
+  position: absolute;
+  top: calc(50% - 197px);
+  left: calc(50% - 195px);
+  width: 390px;
+  height: 394px;
+  filter: blur(4px);
+  object-fit: cover;
+}
+
+.iphone .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 20px 16px;
+  position: absolute;
+  top: 66px;
+  left: calc(50% - 195px);
+  background-color: #ffffff80;
+}
+
+.iphone .your-smile-our {
+  position: relative;
+  width: 340px;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.iphone .span {
+  font-weight: 800;
+  color: #302f2f;
+  line-height: 0.1px;
+}
+
+.iphone .text-wrapper-2 {
+  font-weight: 800;
+  color: #ea7d28;
+  line-height: 17.6px;
+}
+
+.iphone .p {
+  position: relative;
+  width: 226px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #525252;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.iphone .frame-5 {
+  display: inline-flex;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 8px 24px;
+  position: relative;
+  background-color: #f8943f;
+  border-radius: 50px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #de6f0c;
+}
+
+.iphone .book-an-appointment {
+  position: relative;
+  width: 19.44px;
+  height: 21.44px;
+}
+
+.iphone .text-wrapper-3 {
+  color: #ffffff;
+  font-size: 16px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.iphone .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6.21px;
+  padding: 9.94px 19.88px;
+  position: absolute;
+  right: 0;
+  bottom: 348px;
+  border-radius: 0px 0px 0px 12.7px;
+  backdrop-filter: blur(1.24px) brightness(100%);
+  -webkit-backdrop-filter: blur(1.24px) brightness(100%);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%);
+}
+
+.iphone .image-2 {
+  position: relative;
+  width: 52.19px;
+  height: 23.36px;
+  object-fit: cover;
+}
+
+.iphone .image-3 {
+  position: relative;
+  width: 64.62px;
+  height: 14.17px;
+  object-fit: cover;
+}
+
+.iphone .untitled-design {
+  position: relative;
+  width: 41.01px;
+  height: 26.09px;
+}
+
+.iphone .img-2 {
+  position: absolute;
+  left: calc(50% + 5px);
+  bottom: 0;
+  width: 190px;
+  height: 280px;
+}
+
+.iphone .frame-7 {
+  position: relative;
+  width: 390px;
+  height: 394px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.iphone .empty-stomatology-2 {
+  position: absolute;
+  top: calc(50% - 197px);
+  left: calc(50% - 195px);
+  width: 1px;
+  height: 394px;
+  filter: blur(4px);
+  object-fit: cover;
+}
+
+.iphone .frame-8 {
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 20px 16px;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 195px);
+  background-color: #ffffff80;
+}
+
+.iphone .book-an-appointment-2 {
+  position: relative;
+  width: 19px;
+  height: 21px;
+  margin-bottom: -3667px;
+  margin-left: -1041px;
+}
+
+.iphone .rectangle-2 {
+  position: absolute;
+  left: calc(50% - 1196px);
+  bottom: -3680px;
+  width: 256px;
+  height: 251px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.iphone .frame-9 {
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  align-items: center;
+  gap: 60px;
+  position: absolute;
+  top: 594px;
+  left: 0;
+}
+
+.iphone .frame-10 {
+  position: relative;
+  width: 358px;
+  height: 449px;
+  background-color: #fff9f4;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.iphone .frame-11 {
+  display: flex;
+  flex-direction: column;
+  width: 326px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  top: 16px;
+  left: calc(50% - 163px);
+}
+
+.iphone .frame-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.iphone .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: var(--text-2);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.iphone .frame-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .div-wrapper {
+  display: flex;
+  height: 38px;
+  align-items: center;
+  gap: 10px;
+  padding: 17px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 24px;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4px;
+  margin-bottom: -2px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #777777;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-15 {
+  display: flex;
+  height: 44px;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.iphone .frame-16 {
+  display: flex;
+  width: 223px;
+  height: 38px;
+  align-items: center;
+  gap: 10px;
+  padding: 17px 16px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 24px 0px 0px 24px;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .frame-17 {
+  display: flex;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 17px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #462512;
+  border-radius: 0px 24px 24px 0px;
+}
+
+.iphone .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4px;
+  margin-bottom: -2px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-18 {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .rectangle-3 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+  background-color: #ffffff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .i-agree-to-CLOVE {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: var(--text-1);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15.6px;
+}
+
+.iphone .text-wrapper-8 {
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #303030;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15.6px;
+}
+
+.iphone .text-wrapper-9 {
+  text-decoration: underline;
+}
+
+.iphone .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-19 {
+  display: flex;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f58420;
+  border-radius: 24px;
+}
+
+.iphone .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -3px;
+  margin-bottom: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-20 {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.iphone .frame-22 {
+  display: flex;
+  align-items: flex-start;
+  gap: 22px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-23 {
+  display: flex;
+  flex-direction: column;
+  width: 285px;
+  align-items: flex-start;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .image-4 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 285px;
+  object-fit: cover;
+}
+
+.iphone .frame-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-25 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #474747;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #474747;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+}
+
+.iphone .frame-26 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-27 {
+  display: flex;
+  flex-direction: column;
+  width: 147px;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-16 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #f58420;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15.6px;
+}
+
+.iphone .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-28 {
+  display: flex;
+  flex-direction: column;
+  width: 285px;
+  align-items: center;
+  position: relative;
+  margin-right: -234px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .text-wrapper-18 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #474747;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+}
+
+.iphone .frame-29 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -8px;
+}
+
+.iphone .frame-30 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-31 {
+  position: relative;
+  width: 358px;
+  height: 231px;
+  overflow-x: scroll;
+}
+
+.iphone .frame-31::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
+
+.iphone .frame-32 {
+  display: flex;
+  width: 1300px;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+}
+
+.iphone .frame-33 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.iphone .rectangle-4 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 200px;
+}
+
+.iphone .frame-34 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-20 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #f58420;
+  font-size: 14px;
+  line-height: normal;
+  position: relative;
+  letter-spacing: 0;
+}
+
+.iphone .img-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 200px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.iphone .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.iphone .rectangle-5 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 250px;
+}
+
+.iphone .frame-35 {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-36 {
+  position: relative;
+  width: 358px;
+  height: 17px;
+  overflow: hidden;
+}
+
+.iphone .frame-37 {
+  display: flex;
+  width: 358px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.iphone .text-wrapper-22 {
+  position: relative;
+  width: 310px;
+  margin-top: -0.5px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #464646;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .vector {
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+
+.iphone .text-wrapper-23 {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 350px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #464646;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.iphone .frame-38 {
+  width: 358px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iphone .frame-39 {
+  flex-direction: column;
+  width: 358px;
+  gap: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-24 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.iphone .frame-40 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  overflow-x: scroll;
+}
+
+.iphone .frame-40::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
+
+.iphone .rectangle-6 {
+  position: relative;
+  width: 200px;
+  height: 360px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.iphone .frame-41 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #1a1a1a;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .text-wrapper-26 {
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #777777;
+  font-size: 12px;
+  line-height: normal;
+  white-space: nowrap;
+  position: relative;
+  letter-spacing: 0;
+}
+
+.iphone .text-wrapper-27 {
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #777777;
+  font-size: 12px;
+  line-height: normal;
+  position: relative;
+  letter-spacing: 0;
+}
+
+.iphone .frame-42 {
+  position: relative;
+  width: 358px;
+  height: 378px;
+  background-color: #fff9f4;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.iphone .frame-43 {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  height: 452px;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+}
+
+.iphone .text-wrapper-28 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: var(--text-1);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.iphone .frame-44 {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.41px;
+  overflow-x: scroll;
+}
+
+.iphone .frame-44::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
+
+.iphone .frame-45 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: flex-start;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iphone .image-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #d0d0d0;
+}
+
+.iphone .image-5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 203px);
+  width: 438px;
+  height: 250px;
+}
+
+.iphone .frame-46 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #112230;
+}
+
+.iphone .frame-47 {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+}
+
+.iphone .vector-2 {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+}
+
+.iphone .text-wrapper-30 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+}
+
+.iphone .frame-48 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-31 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #f58420;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  white-space: nowrap;
+}
+
+.iphone .frame-49 {
+  position: relative;
+  width: 27px;
+  height: 25.41px;
+}
+
+.iphone .image-6 {
+  left: calc(50% - 150px);
+  width: 596px;
+  height: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone .frame-50 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #112230;
+}
+
+.iphone .image-7 {
+  left: calc(50% - 219px);
+  width: 380px;
+  height: 217px;
+  border-radius: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.iphone .frame-51 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #462512;
+}
+
+.iphone .experience-AIPS {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+}
+
+.iphone .text-wrapper-32 {
+  color: #ffffff;
+}
+
+.iphone .text-wrapper-33 {
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+.iphone .frame-52 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 40px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #fff9f5;
+}
+
+.iphone .frame-53 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-54 {
+  position: relative;
+  width: 87.67px;
+  height: 88px;
+  margin-left: -0.14px;
+}
+
+.iphone .frame-55 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-56 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .star {
+  position: relative;
+  width: 24.7px;
+  height: 23.57px;
+}
+
+.iphone .line {
+  position: relative;
+  width: 1.5px;
+  height: 26.25px;
+}
+
+.iphone .text-wrapper-34 {
+  margin-top: -0.75px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  width: fit-content;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .element-lakh {
+  position: relative;
+  width: fit-content;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-35 {
+  font-weight: 700;
+  color: #ea7d28;
+}
+
+.iphone .text-wrapper-36 {
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #ea7d28;
+}
+
+.iphone .text-wrapper-37 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: var(--text-2);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .frame-57 {
+  display: flex;
+  width: 350px;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  overflow-x: scroll;
+}
+
+.iphone .frame-57::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
+
+.iphone .frame-58 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  padding: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+.iphone .ellipse {
+  position: relative;
+  width: 68px;
+  height: 68px;
+  object-fit: cover;
+}
+
+.iphone .frame-59 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-38 {
+  font-weight: 700;
+  color: #303030;
+  font-size: 18px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone .group {
+  position: relative;
+  width: 133.56px;
+  height: 24px;
+}
+
+.iphone .star-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+
+.iphone .star-3 {
+  position: absolute;
+  top: 0;
+  left: 36px;
+  width: 24px;
+  height: 24px;
+}
+
+.iphone .star-4 {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 24px;
+  height: 24px;
+}
+
+.iphone .star-5 {
+  position: absolute;
+  top: 0;
+  left: 109px;
+  width: 24px;
+  height: 24px;
+}
+
+.iphone .text-wrapper-39 {
+  position: relative;
+  width: 212px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #464646;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.iphone .frame-60 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-40 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #e9811f;
+  font-size: 16px;
+  letter-spacing: 0.32px;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.iphone .frame-61 {
+  position: relative;
+  width: 8px;
+  height: 14px;
+}
+
+.iphone .rectangle-7 {
+  position: absolute;
+  top: 0;
+  left: 187px;
+  width: 65px;
+  height: 65px;
+  background-color: #ffebc4;
+  border-radius: 0px 11.5px 0px 92px;
+}
+
+.iphone .google-logo {
+  position: absolute;
+  top: 10px;
+  left: 211px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+
+.iphone .frame-62 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-63 {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-64 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-65 {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-66 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-67 {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 86px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #d0d0d0;
+}
+
+.iphone .frame-68 {
+  top: calc(50% - 27px);
+  left: calc(50% - 75px);
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+}
+
+.iphone .frame-69 {
+  position: relative;
+  width: 54px;
+  height: 54px;
+}
+
+.iphone .frame-70 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-41 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: var(--text-1);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-42 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: var(--text-1);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.iphone .frame-71 {
+  top: calc(50% - 29px);
+  left: calc(50% - 74px);
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+}
+
+.iphone .frame-72 {
+  position: relative;
+  width: 53px;
+  height: 58px;
+}
+
+.iphone .text-wrapper-43 {
+  position: relative;
+  width: fit-content;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: var(--text-1);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.iphone .frame-73 {
+  position: relative;
+  width: 170px;
+  height: 86px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #d0d0d0;
+}
+
+.iphone .frame-74 {
+  top: calc(50% - 27px);
+  left: calc(50% - 76px);
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+}
+
+.iphone .frame-75 {
+  position: relative;
+  width: 64.29px;
+  height: 54px;
+}
+
+.iphone .frame-76 {
+  display: flex;
+  flex-direction: column;
+  width: 75px;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+}
+
+.iphone .frame-77 {
+  top: calc(50% - 27px);
+  left: calc(50% - 71px);
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+}
+
+.iphone .frame-78 {
+  position: relative;
+  width: 54.27px;
+  height: 54px;
+}
+
+.iphone .frame-79 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  top: 16px;
+  left: calc(50% - 68px);
+}
+
+.iphone .vector-3 {
+  position: relative;
+  width: 37.85px;
+  height: 54px;
+}
+
+.iphone .frame-80 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  top: calc(50% - 26px);
+  left: calc(50% - 71px);
+}
+
+.iphone .group-2 {
+  position: relative;
+  width: 54px;
+  height: 51.13px;
+}
+
+.iphone .frame-81 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-82 {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 12.08px;
+  overflow: hidden;
+  border: 0.6px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .image-8 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 326px;
+  object-fit: cover;
+}
+
+.iphone .frame-83 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 16px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-84 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-44 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.6px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: #303030;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .frame-85 {
+  display: flex;
+  flex-direction: column;
+  width: 88.77px;
+  align-items: flex-start;
+  gap: 2.42px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-45 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.6px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #f58420;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15.6px;
+}
+
+.iphone .frame-86 {
+  display: flex;
+  align-items: center;
+  gap: 10.27px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-46 {
+  margin-top: -0.6px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-size: 16px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .text-wrapper-47 {
+  margin-top: -0.6px;
+  margin-right: -8.5px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #474747;
+  font-size: 16px;
+  text-decoration: line-through;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone .frame-87 {
+  gap: 16px;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-48 {
+  position: relative;
+  width: 318px;
+  margin-top: -1px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: var(--text-1);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.iphone .line-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  object-fit: cover;
+}
+
+.iphone .frame-88 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-89 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 32px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #462512;
+}
+
+.iphone .frame-90 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .clove-logo-2 {
+  position: relative;
+  width: 110px;
+  height: 44px;
+}
+
+.iphone .frame-91 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .text-wrapper-49 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.5px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-50 {
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.iphone .frame-92 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.iphone .frame-93 {
+  display: flex;
+  flex-direction: column;
+  width: 358px;
+  align-items: flex-end;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .line-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+}
+
+.iphone .text-wrapper-51 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.iphone .frame-94 {
+  position: absolute;
+  top: 514px;
+  left: calc(50% - 195px);
+  width: 390px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  background-color: #fff9f4;
+}
+
+.iphone .frame-95 {
+  margin-top: 11px;
+  width: 390px;
+  height: 38px;
+  display: flex;
+}
+
+.iphone .frame-96 {
+  display: inline-flex;
+  width: 4029.83px;
+  height: 38.28px;
+  position: relative;
+  align-items: center;
+  gap: 40px;
+}
+
+.iphone .pointer {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .clinics {
+  position: relative;
+  width: 35.38px;
+  height: 38.28px;
+}
+
+.iphone .div-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.96px;
+  font-family: "Figtree", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-52 {
+  font-weight: 700;
+  color: #f58420;
+  line-height: 18.2px;
+}
+
+.iphone .text-wrapper-53 {
+  font-weight: 700;
+  color: #000000;
+  line-height: 0.1px;
+}
+
+.iphone .frame-97 {
+  position: relative;
+  width: 34.24px;
+  height: 39.21px;
+  margin-top: -0.46px;
+  margin-bottom: -0.47px;
+  margin-left: -0.46px;
+}
+
+.iphone .happy-patients {
+  position: relative;
+  width: 39.88px;
+  height: 39.84px;
+  margin-top: -0.78px;
+  margin-bottom: -0.78px;
+  margin-left: -0.78px;
+}
+
+.iphone .frame-98 {
+  position: relative;
+  width: 36.68px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+  margin-left: -1195.03px;
+}
+
+.iphone .implant {
+  margin-left: -1401.71px;
+  position: relative;
+  width: 28px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .clinics-2 {
+  margin-left: -1621.71px;
+  position: relative;
+  width: 34.6px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-99 {
+  margin-left: -1789.31px;
+  position: relative;
+  width: 33.3px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .happy-patients-2 {
+  margin-left: -1972.6px;
+  position: relative;
+  width: 41.13px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-100 {
+  margin-left: -2205.73px;
+  position: relative;
+  width: 36.68px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .implant-2 {
+  margin-left: -2412.42px;
+  position: relative;
+  width: 28px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .element-implants-placed {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.96px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  white-space: nowrap;
+}
+
+.iphone .text-wrapper-54 {
+  color: #f58420;
+}
+
+.iphone .text-wrapper-55 {
+  color: #000000;
+}
+
+.iphone .clinics-3 {
+  margin-left: -2641.42px;
+  position: relative;
+  width: 34.6px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-101 {
+  margin-left: -2809.01px;
+  position: relative;
+  width: 33.3px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .happy-patients-3 {
+  margin-left: -2992.31px;
+  position: relative;
+  width: 41.13px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-102 {
+  margin-left: -3225.44px;
+  position: relative;
+  width: 36.68px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .implant-3 {
+  margin-left: -3432.12px;
+  position: relative;
+  width: 28px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .clinics-4 {
+  margin-left: -3661.12px;
+  position: relative;
+  width: 34.6px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-103 {
+  margin-left: -3828.72px;
+  position: relative;
+  width: 33.3px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .happy-patients-4 {
+  margin-left: -4012.02px;
+  position: relative;
+  width: 41.13px;
+  height: 38.28px;
+  margin-bottom: -3418px;
+}
+
+.iphone .frame-104 {
+  margin-left: -4245.15px;
+  position: relative;
+  width: 36.68px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .implant-4 {
+  margin-left: -4451.83px;
+  position: relative;
+  width: 28px;
+  height: 38px;
+  margin-bottom: -3417.86px;
+}
+
+.iphone .frame-105 {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 155px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.iphone .frame-106 {
+  display: flex;
+  width: 390px;
+  height: 72px;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 40px;
+  background-color: #fff1e6;
+  border-radius: 20px 20px 0px 0px;
+  border: 1px solid;
+  border-color: #ffdfc4;
+}
+
+.iphone .frame-107 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.iphone .book-an-appointment-3 {
+  position: relative;
+  width: 22.32px;
+  height: 24.5px;
+}
+
+.iphone .text-wrapper-56 {
+  color: var(--brown);
+  font-size: 12px;
+  text-align: center;
+  line-height: 15.6px;
+  position: relative;
+  width: fit-content;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.iphone .line-4 {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 40px;
+  object-fit: cover;
+}
+
+.iphone .frame-108 {
+  position: relative;
+  width: 17.92px;
+  height: 24px;
+}
